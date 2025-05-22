@@ -1,0 +1,17 @@
+{
+    "name": "PontusMadsen/reizoko",
+    "description": "Custom Control Panel Styling for ExpressionEngine",
+    "version": "1.3.37",
+    "homepage": "https://github.com/PontusMadsen/reizoko",
+    "license": "Use, edit, and redistribute as you wish.. no resale tho.",
+    "authors": [
+        {
+            "name": "Pontus Madsen",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "ext-curl": "*"
+    }
+}
